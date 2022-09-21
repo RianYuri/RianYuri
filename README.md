@@ -1,13 +1,25 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Eyros</h1>
+<h1 align="left">Olá ,Meu nome é Rian Yuri <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif"  height="30px"></h1>
+
+<div style="display:flex;  width:200px; justify-content:space-between;">
+
+
+<img src="DualTech-removebg-preview.png" height="75"  align='right' />
+
+
+-  <span> Estagiário TI - DualTech (02/2022 - Atualmente)
+- :pushpin:Help Desk
+- :pushpin:
+
+</span>
+</div>
 
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
 
--  Estagiário TI - DualTech (02/2022 - Atualmente)
 
-- ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity.<br>
+
 
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianYuri&layout=compact&langs_count=7&theme=tokyonight"/><br>
