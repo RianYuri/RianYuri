@@ -5,7 +5,7 @@
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
-<img src="DualTech-removebg-preview.png" height="75"  align='right' />
+<a href="https://www.dualtechinformatica.com/" ><img src="DualTech-removebg-preview.png" height="75"  align='right' /></a>
 
 
 -  <span> Estagiário TI - DualTech (02/2022 - Atualmente)
