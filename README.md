@@ -7,7 +7,7 @@
 
 <a href="https://www.dualtechinformatica.com/" target="_blank" rel="noopener noreferrer" ><img src="DualTech-removebg-preview.png" height="75"  align='right' /></a>
 
-
+- <span> Atendente de peixaria (02/2021 - Atualmente)
 -  <span> Estagiário TI - DualTech (02/2022 - Atualmente)
 - :pushpin:Help Desk
 - :pushpin:
