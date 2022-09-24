@@ -9,8 +9,8 @@
 
 - <span> Atendente de peixaria (02/2021 - Atualmente)
 -  <span> Estagiário TI - DualTech (02/2022 - Atualmente)
-- :pushpin:Help Desk
-- :pushpin:
+- :pushpin:Help Desk (Junior)
+
 
 </span>
 </div>
