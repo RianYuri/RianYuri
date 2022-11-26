@@ -19,11 +19,11 @@
           <h3 justify-content="center">Atividades Principais</h5>
 - :pushpin:Help Desk Junior
 - :pushpin:Técnico em manuntenção e suporte em informática
-
+- :pushpin:Instalador de Cabeamento Estruturado
 </span>
 </div>
-   
-<h5> FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)<h5>
+    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height="145"  align='right' /></a>
+<h2> FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)<h2>
           <br>
           <br>
           <br>
@@ -47,9 +47,12 @@
   <img align="center" alt="BOOTSTRAP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="LINUX" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="MYSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="GIT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GIT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="REACT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center" alt="REDUX" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />       
   <img align="center" alt="FIGMA" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
+                  
 
   
 </div>
