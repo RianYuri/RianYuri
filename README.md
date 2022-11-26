@@ -6,7 +6,7 @@
 
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
--  <span> Projeto de Bolsa Estagiario - UOL Compass (02/2022 - 11/2022)
+-  <span> Projeto de Bolsa Estagiario - UOL Compass (11/2022)
 - :pushpin:FrontEnd e AWS
           <br>
 -  <span> Estagiário TI - DualTech (02/2022 - 11/2022)
