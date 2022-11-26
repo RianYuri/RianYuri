@@ -6,12 +6,19 @@
 
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
--  <span> Projeto de Bolsa Estagiario - UOL Compass (11/2022)
-- :pushpin:FrontEnd e AWS
-          <br>
--  <span> Estagiário TI - DualTech (02/2022 - 11/2022)
+           <span><h2> Projeto de Bolsa Estagiario - UOL Compass (11/2022)</h2>
+          <h3 justify-content="center">Atividades Principais</h5>
+- :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
+- :pushpin:Rendering Lists              
+- :pushpin:Components               
+- :pushpin:Hooks
+- :pushpin:Redux          
+- :pushpin:AWS Amplify          
+          <a href="https://www.dualtechinformatica.com/" target="_blank" rel="noopener noreferrer" ><img src="DualTech-removebg-preview.png" height="75"  align='right' /></a>
+-  <span><h2> Estagiário TI - DualTech (02/2022 - 11/2022)</h2>
+          <h3 justify-content="center">Atividades Principais</h5>
 - :pushpin:Help Desk Junior
-
+- :pushpin:Técnico em manuntenção e suporte em informática
 
 </span>
 </div>
