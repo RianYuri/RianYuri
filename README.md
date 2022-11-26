@@ -23,7 +23,7 @@
 </span>
 </div>
    
-- :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
+<h5> FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)<h5>
           <br>
           <br>
           <br>
