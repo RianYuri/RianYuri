@@ -5,7 +5,7 @@
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
-<a href="https://www.dualtechinformatica.com/" target="_blank" rel="noopener noreferrer" ><img src="DualTech-removebg-preview.png" height="75"  align='right' /></a>
+<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="uol.png" height="75"  align='right' /></a>
 -  <span> Projeto de Bolsa Estagiario - UOL Compass (02/2022 - 11/2022)
 - :pushpin:FrontEnd e AWS
 -  <span> Estagiário TI - DualTech (02/2022 - 11/2022)
