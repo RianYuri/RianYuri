@@ -6,8 +6,9 @@
 
 
 <a href="https://www.dualtechinformatica.com/" target="_blank" rel="noopener noreferrer" ><img src="DualTech-removebg-preview.png" height="75"  align='right' /></a>
-
--  <span> Estagiário TI - DualTech (02/2022 - Atualmente)
+-  <span> Projeto de Bolsa Estagiario - UOL Compass (02/2022 - 11/2022)
+- :pushpin:FrontEnd e AWS
+-  <span> Estagiário TI - DualTech (02/2022 - 11/2022)
 - :pushpin:Help Desk Junior
 
 
