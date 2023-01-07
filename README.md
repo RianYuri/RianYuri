@@ -66,6 +66,6 @@
 
   <h2>📱 Contacts</h2>
 <div align="center">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rian-yuri-b36563158/">
+   <a href="https://www.linkedin.com/in/rian-yuri-b36563158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 </div>
