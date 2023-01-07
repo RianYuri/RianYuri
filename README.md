@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&%20height=120&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <h1 align="left">Olá, Meu nome é Rian Yuri <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif"  height="30px"></h1>
