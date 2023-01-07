@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&%20height=120&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1 align="left">Olá, Meu nome é Rian Yuri <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif"  height="30px"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Rian+Yuri+;I'm+18+years+old+:%29)](https://git.io/typing-svg)
 
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
-           <span><h2> Projeto de Bolsa Estagio - UOL Compass (11/2022)</h2>
+           <span><h2>Projeto de Bolsa Estagio - UOL Compass (11/2022)</h2>
           <h3 justify-content="center">Atividades Principais</h5>
 - :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
 - :pushpin:Rendering Lists              
