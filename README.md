@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Rian+Yuri+;Eu+tenho+19+anos+:%29)](https://git.io/typing-svg)
 
 <div style="display:flex;  width:200px; justify-content:space-between;">
+          
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
            <span><h2>P1 Frontend - UOL Compass (06/2023 - Atualmente)</h2>
           <h3 justify-content="center">Atividades Principais</h5>
