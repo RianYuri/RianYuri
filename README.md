@@ -8,12 +8,13 @@
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
            <span><h2>P1 Frontend - UOL Compass (06/2023 - Atualmente)</h2>
           <h3 justify-content="center">Atividades Principais</h5>
-- :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events, Node <br>              
-- :pushpin:Rendering Lists              
-- :pushpin:Components               
-- :pushpin:Hooks
-- :pushpin:Redux          
-- :pushpin:AWS Amplify 
+- :pushpin: Front-end Development com foco em React e JavaScript, atuando em ambientes AWS Cloud
+- :pushpin: Experiência com event handling e desenvolvimento com Node.js
+- :pushpin: Escrita e manutenção de testes unitários
+- :pushpin: Implementação de BFF (Backend for Frontend)
+- :pushpin: Uso avançado de React Hooks
+- :pushpin: Gerenciamento de estado com Redux         
+
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
            <span><h2>Projeto de Bolsa Estagio - UOL Compass (11/2022 - 04/2023)</h2>
